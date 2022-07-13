@@ -1,5 +1,5 @@
 package miniProject.JEE;
 
-public class Main {
+public class threads_DAO {
 
 }
