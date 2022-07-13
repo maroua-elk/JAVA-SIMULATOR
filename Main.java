@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Main_HB {
 	public static void main(String[] args) {
 
 		// on traite le cas de 1000 utilisateurs
